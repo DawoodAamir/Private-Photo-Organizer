@@ -298,7 +298,7 @@ struct OrganizerView: View {
       await assets.discardImport(pending.key)
       return
     }
-    if let existing = photos.first(where: { $0.hash == pending.hash }) {
+    if let existing = photos.first(where: { $0.contentHash == pending.hash }) {
       await assets.discardImport(pending.key)
       selection = existing.id
       compactColumn = .detail
