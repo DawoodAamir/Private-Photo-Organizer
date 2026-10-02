@@ -2,6 +2,8 @@
 
 A native photo reference library for iPhone, iPad, and Mac. Import selected photos, organize collections, and review on-device tag suggestions before saving them.
 
+![Native photo library and review workspace](Docs/Library.png)
+
 ## What it demonstrates
 
 - SwiftUI navigation adapted to compact and desktop layouts, PhotosPicker, and native file import.

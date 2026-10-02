@@ -11,7 +11,7 @@ The native Mac workflow imports an original generated image through the standard
 - macOS 27 Debug core tests: five passed locally on October 2, 2026.
 - Release core tests: five passed locally on October 2, 2026.
 - Mac, iOS Simulator, and unsigned iOS device Release builds: passed.
-- Native Mac workflow passed on October 2, 2026: import, metadata edits, favorite persistence after relaunch, archive, and restore. [Successful run](https://github.com/DawoodAamir/Private-Photo-Organizer/actions/runs/36915882327).
+- Native Mac workflow passed on October 2, 2026: import, metadata edits, favorite persistence after relaunch, archive, and restore. [Successful run](https://github.com/DawoodAamir/Private-Photo-Organizer/actions/runs/36945444391).
 - Physical-device photo picker, VoiceOver, and large-library performance: not yet verified.
 
 ## Manual review
