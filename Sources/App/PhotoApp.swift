@@ -34,7 +34,7 @@ import UniformTypeIdentifiers
             (storageError ?? "Unknown storage error") + " Your existing files were preserved.")
         ).padding()
       }
-    }
+    }.defaultSize(width: 1100, height: 760)
   }
 }
 struct OrganizerView: View {
